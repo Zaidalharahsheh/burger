@@ -28,13 +28,3 @@
 
 ## Aurthors
   Zaid alharahsheh
-
-
-## screenshots
-  
-
-
-
-
-## Linkedin
-  
