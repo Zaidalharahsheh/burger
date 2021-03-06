@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "init": "^0.1.2",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "burger",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaidalharahsheh/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaidalharahsheh/burger/issues"
+  },
+  "homepage": "https://github.com/Zaidalharahsheh/burger#readme",
+  "description": ""
+}
