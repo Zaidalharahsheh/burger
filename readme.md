@@ -34,11 +34,7 @@
   
 
 
-## Github
-  undefined
 
-## GithubURL
-  undefined
 
 ## Linkedin
   
